@@ -3,6 +3,8 @@ Open source release of the retired Unity asset [PicaVoxel](http://picavoxel.com)
 
 This is a slightly modified version of the final asset store release, and has been tested working on Unity 2019.4 LTS.
 
+If you're looking for more infinite, terrain-based, streaming voxel volumes (think Minecraft), then consider taking a look at [PicaVoxel Infinity](https://github.com/GarethIW/PicaVoxelInfinity)
+
 ### Support
 This source is provided as-is, with no obligation for support from myself.
 
